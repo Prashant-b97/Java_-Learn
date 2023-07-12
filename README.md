@@ -7,10 +7,10 @@ a. Enhanced Array
 b. Enhanced for Loop
 c. 3-D or Jagged Matrix
 d. Mutable (liable to change) and Immutable (not liable to change) string
-e.String Buffer(It is thread-safe) and String Builder
-f.
-g.
-h.
+e. String Buffer(It is thread-safe) and String Builder
+f. Static variable, methods and Blocks
+g. Comprehending instance variables and static variables
+h. Using Getters and setters to access private variables/methods
 i.
 
 Placed a random image for now; once done with the course will post certificate. :-P
