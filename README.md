@@ -4,10 +4,10 @@ This repo is about brushing up my programming skills in Java and Spring Framewor
 
 Few notables
 a. Enhanced Array
-b. Enhanced Loop
+b. Enhanced for Loop
 c. 3-D or Jagged Matrix
-d.
-e.
+d. Mutable (liable to change) and Immutable (not liable to change) string
+e.String Buffer(It is thread-safe) and String Builder
 f.
 g.
 h.
